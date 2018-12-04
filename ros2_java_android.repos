@@ -38,7 +38,7 @@ repositories:
   ros2/rcl_interfaces:
     type: git
     url: https://github.com/ros2/rcl_interfaces.git
-    version: master
+    version: b031fc4819c621554d5874e41d22c712033b99f9
   ros2/rmw:
     type: git
     url: https://github.com/ros2/rmw.git
